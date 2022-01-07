@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b9fe080.chunk.css",
+    "main.js": "/static/js/main.ba3c1272.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.81cbc81a.js",
+    "static/js/2.f7f4d279.chunk.js": "/static/js/2.f7f4d279.chunk.js",
+    "static/js/3.ddd396fd.chunk.js": "/static/js/3.ddd396fd.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.f7f4d279.chunk.js.LICENSE.txt": "/static/js/2.f7f4d279.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/static/media/aboutBackground.1d888f14.png",
+    "static/media/aboutImage.67564a82.png": "/static/media/aboutImage.67564a82.png",
+    "static/media/aboutSamllImage.d615253b.png": "/static/media/aboutSamllImage.d615253b.png",
+    "static/media/banner.66001e0b.png": "/static/media/banner.66001e0b.png",
+    "static/media/banner2.1bc4acfb.png": "/static/media/banner2.1bc4acfb.png",
+    "static/media/cardImg1.9756135d.png": "/static/media/cardImg1.9756135d.png",
+    "static/media/cardImg2.f5426a1f.png": "/static/media/cardImg2.f5426a1f.png",
+    "static/media/cardImg3.f49f3827.png": "/static/media/cardImg3.f49f3827.png",
+    "static/media/featureImage.7b593ea5.png": "/static/media/featureImage.7b593ea5.png",
+    "static/media/Footer.css": "/static/media/footerBackground.024152ba.png",
+    "static/media/footerImg1.404fc0f6.png": "/static/media/footerImg1.404fc0f6.png",
+    "static/media/footerImg2.29979bb4.png": "/static/media/footerImg2.29979bb4.png",
+    "static/media/Header.css": "/static/media/headerWhite.c31bf3c2.png",
+    "static/media/journeyArrow.4d5dbac3.png": "/static/media/journeyArrow.4d5dbac3.png",
+    "static/media/OurJourney.css": "/static/media/journeyBackground.1dd37c3f.png",
+    "static/media/journeyImg.8d625f32.png": "/static/media/journeyImg.8d625f32.png",
+    "static/media/journeySmallImg.cb5ef752.png": "/static/media/journeySmallImg.cb5ef752.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81cbc81a.js",
+    "static/js/2.f7f4d279.chunk.js",
+    "static/css/main.7b9fe080.chunk.css",
+    "static/js/main.ba3c1272.chunk.js"
+  ]
+}
